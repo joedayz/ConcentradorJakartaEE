@@ -1,0 +1,4 @@
+<!DOCTYPE glassfish-web-app PUBLIC "-//GlassFish.org//DTD GlassFish Application Server 3.1 Resource Definitions//EN" "http://glassfish.org/dtds/glassfish-resources_1_5.dtd"> 
+<glassfish-web-app>
+    <context-root>api/v1/concentrador</context-root>
+</glassfish-web-app>
